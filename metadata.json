@@ -1,7 +1,8 @@
 {
-    "last-edited": "1387666800",
+    "last-edited": "1411245691",
     "description": "Shutdown",
-    "prevent-decorations": false,
+    "prevent-decorations": true,
     "uuid": "shutdown@phpdreamer",
-    "name": "shutdown linux"
+    "name": "shutdown linux",
+    "color": "#206DD5"
 }
