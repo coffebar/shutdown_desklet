@@ -45,6 +45,5 @@ ShutdownDesklet.prototype = {
 }
 
 function main(metadata, desklet_id) {
-    let desklet = new ShutdownDesklet(metadata, desklet_id);
-    return desklet;
+    return new ShutdownDesklet(metadata, desklet_id);
 }
