@@ -3,8 +3,9 @@ Shutdown
 
 Cinnamon Desklet
 
-- выключает компьютер после двойного клика по десклету.
+Just double-click to shutdown. Without any questions.
 
-Для установки нужно разместить файлы в каталоге: 
+
+Place files in the
+
 ~/.local/share/cinnamon/desklets/shutdown@phpdreamer
-и включить десклет в настройках (контекстное меню рабочего стола -> Add Desklets)
